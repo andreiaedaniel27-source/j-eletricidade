@@ -1,0 +1,1067 @@
+# PROMPT MESTRE — DESENVOLVIMENTO COMPLETO DO SITE J’ENERGY SOLUÇÕES ELÉTRICAS
+## Claude Code | Full-Stack Development + UI/UX Design
+
+Atue como um desenvolvedor Full-Stack Sênior, Engenheiro de Software, Especialista em Python, FastAPI, UI/UX Design, SEO, segurança web, arquitetura de sistemas e desenvolvimento de experiências digitais profissionais.
+
+Sua missão é **DESENVOLVER E ENTREGAR UM SITE COMPLETO, FUNCIONAL, ADMINISTRÁVEL E PRONTO PARA PRODUÇÃO** para a empresa J’ENERGY SOLUÇÕES ELÉTRICAS.
+
+Não quero apenas sugestões, protótipos, explicações, exemplos ou códigos isolados. Quero que você trabalhe diretamente nos arquivos do projeto, desenvolva o sistema completo, execute a aplicação, teste as funcionalidades e corrija os erros encontrados.
+
+O resultado deve ter qualidade visual e técnica de um projeto desenvolvido por uma agência profissional de tecnologia e design digital.
+
+---
+
+# 1. INFORMAÇÕES DA EMPRESA
+
+**Nome:** J’ENERGY SOLUÇÕES ELÉTRICAS.
+
+**Segmento:** Serviços elétricos, instalações, manutenção e soluções tecnológicas.
+
+**Slogan:** Energia que conecta seu mundo!
+
+**Responsável pelo atendimento:** João.
+
+**Descrição da empresa:**
+
+A J’ENERGY SOLUÇÕES ELÉTRICAS oferece soluções elétricas para clientes residenciais, comerciais e industriais, trabalhando com instalações, manutenção e tecnologias relacionadas à infraestrutura elétrica, automação e segurança.
+
+A comunicação deve transmitir profissionalismo, confiança, responsabilidade, qualidade e segurança.
+
+**Região de atendimento:** São Bernardo do Campo/SP e região.
+
+Não inventar endereço comercial, bairros atendidos, horários de funcionamento ou outras informações não fornecidas.
+
+## 1.1 Serviços oferecidos
+
+Manter exatamente os seis serviços abaixo:
+
+1. Instalações elétricas residenciais, comerciais e industriais.
+2. Manutenção elétrica preventiva e corretiva.
+3. Energia solar.
+4. Automação residencial.
+5. CFTV e segurança eletrônica.
+6. Instalação de fechadura eletrônica.
+
+## 1.2 Diferenciais
+
+- Equipe Qualificada e Certificada.
+- Atendimento Personalizado.
+- Qualidade e Segurança.
+
+Valorizar também o atendimento próximo e a apresentação de João como profissional responsável pelo relacionamento com os clientes, sem inventar sua trajetória, tempo de experiência ou qualificações individuais.
+
+## 1.3 Público-alvo
+
+- Pessoas que precisam de serviços elétricos residenciais.
+- Proprietários de imóveis.
+- Clientes que precisam de manutenção elétrica.
+- Empresas e estabelecimentos comerciais.
+- Clientes com demandas elétricas industriais.
+- Pessoas interessadas em energia solar.
+- Clientes interessados em automação residencial.
+- Pessoas que precisam de CFTV, segurança eletrônica e fechaduras eletrônicas.
+
+## 1.4 Objetivo principal do site
+
+**GERAR ORÇAMENTOS E NOVOS CLIENTES PELO WHATSAPP.**
+
+O WhatsApp deve ser o principal canal de conversão.
+
+O visitante precisa compreender rapidamente o que a empresa oferece, identificar o serviço desejado, sentir confiança no profissional e entrar em contato para solicitar um orçamento.
+
+O site deve eliminar distrações e priorizar a conversão.
+
+---
+
+# 2. CONTATOS OFICIAIS
+
+**WhatsApp:** (11) 98151-1548.
+
+**Número para integração:** 551198151548.
+
+**Link oficial:**
+
+https://wa.me/551198151548
+
+**Instagram oficial:**
+
+https://www.instagram.com/j.energy_solucoes?igsh=MW1jZWplNzgyb25sZw==
+
+Utilizar os contatos exatamente como informados.
+
+Não inventar telefone, e-mail, endereço, outros perfis ou canais comerciais.
+
+---
+
+# 3. STACK TECNOLÓGICA OBRIGATÓRIA
+
+Utilize obrigatoriamente esta stack:
+
+- **Python:** linguagem principal do backend.
+- **FastAPI:** framework backend.
+- **Jinja2:** renderização de páginas e templates HTML.
+- **Alpine.js:** interações leves no frontend.
+- **Tailwind CSS:** estilização e sistema visual.
+- **SQLite:** banco de dados.
+
+Não substituir essa stack por React, Next.js, Node.js, PHP, Laravel, Django, PostgreSQL ou outros frameworks.
+
+Não utilizar frameworks JavaScript pesados desnecessariamente.
+
+## Arquitetura esperada
+
+- Backend com FastAPI.
+- Templates com Jinja2.
+- Componentes visuais reutilizáveis.
+- Alpine.js para menu mobile, interações, formulários e componentes dinâmicos.
+- Tailwind CSS para o design.
+- SQLite para persistência de dados.
+- Estrutura modular e organizada.
+- Separação entre rotas públicas, administrativas, serviços, modelos e configurações.
+
+O projeto deve ser leve, rápido, organizado, responsivo e adequado para hospedagem em VPS Linux.
+
+---
+
+# 4. DIREÇÃO CRIATIVA E IDENTIDADE VISUAL
+
+Desenvolva uma experiência digital com conceito:
+
+**DARK TECH + INDUSTRIAL PREMIUM + MOTION DESIGN.**
+
+O resultado deve transmitir tecnologia, engenharia, segurança, confiança e modernidade.
+
+Não utilizar aparência de template genérico de eletricista.
+
+Quero um design sofisticado, com personalidade própria, hierarquia visual forte e elementos gráficos que façam referência à energia elétrica.
+
+## 4.1 Paleta de cores
+
+Utilizar:
+
+- Azul-marinho quase preto: #080F1C.
+- Azul-marinho profundo: #101D32.
+- Azul industrial: #173B60.
+- Azul elétrico: #39BDF5.
+- Amarelo elétrico: #FFD21C.
+- Branco suave: #F5F7FA.
+
+O azul deve dominar a identidade.
+
+O amarelo deve destacar botões, chamadas para ação, detalhes gráficos e elementos importantes.
+
+Utilizar gradientes discretos, iluminação controlada, sombras elegantes e profundidade visual.
+
+Evitar excesso de brilhos e elementos decorativos.
+
+## 4.2 Logotipo
+
+Preservar o logotipo original da J’ENERGY, incluindo seu símbolo inspirado em lâmpada/raio e sua identificação em azul e amarelo.
+
+Caso o arquivo original não esteja disponível no projeto, preparar um espaço para receber o logotipo oficial.
+
+Não criar uma identidade visual que descaracterize a marca.
+
+## 4.3 Tipografia obrigatória
+
+Utilizar a combinação:
+
+**SPACE GROTESK**
+- Títulos.
+- Headlines.
+- Chamadas principais.
+- Pesos 600 e 700.
+
+**INTER**
+- Parágrafos.
+- Menus.
+- Botões.
+- Formulários.
+- Textos auxiliares.
+- Pesos 400, 500 e 600.
+
+Trabalhar com títulos marcantes, boa hierarquia, espaçamento equilibrado e excelente legibilidade.
+
+---
+
+# 5. EXPERIÊNCIA VISUAL DINÂMICA E INTERATIVA
+
+O site não deve ser estático ou visualmente monótono.
+
+Quero uma experiência com movimento, profundidade e interatividade, mas sem prejudicar a velocidade.
+
+Criar:
+
+- Linhas elétricas animadas.
+- Pequenos pontos luminosos em movimento.
+- Partículas discretas.
+- Elementos gráficos inspirados em circuitos eletrônicos.
+- Efeitos suaves de iluminação.
+- Animações de entrada durante a rolagem.
+- Microinterações nos botões.
+- Cartões com efeitos sutis ao passar o mouse.
+- Transições suaves entre seções.
+- Efeitos de profundidade e parallax controlado.
+- Elementos visuais que remetam à energia elétrica.
+
+Utilizar preferencialmente CSS e Alpine.js para manter o site leve.
+
+Não utilizar bibliotecas pesadas apenas para criar efeitos simples.
+
+Quando necessário, utilizar animações CSS personalizadas.
+
+Respeitar `prefers-reduced-motion` e oferecer alternativas para dispositivos móveis.
+
+A experiência deve ser moderna, fluida e profissional.
+
+---
+
+# 6. ESTRUTURA DO SITE
+
+Desenvolver uma landing page institucional compacta, comercial e orientada à conversão.
+
+Não criar um site extenso com várias páginas desnecessárias.
+
+A estrutura pública deve priorizar cinco áreas principais:
+
+1. Hero / apresentação.
+2. Serviços.
+3. Por que escolher a J’ENERGY.
+4. Depoimentos.
+5. Chamada final para orçamento.
+
+Adicionar também cabeçalho, rodapé e integração com Instagram.
+
+Não criar uma seção específica de localização ou mapas.
+
+Não criar blocos institucionais extensos.
+
+Não repetir informações desnecessariamente.
+
+---
+
+# 7. DESENVOLVIMENTO DAS SEÇÕES
+
+## 7.1 HERO — PRIMEIRA IMPRESSÃO
+
+Criar uma primeira dobra visualmente impactante.
+
+Headline:
+
+**SOLUÇÕES ELÉTRICAS COM SEGURANÇA, TECNOLOGIA E CONFIANÇA.**
+
+Subheadline:
+
+“Instalações e soluções elétricas para residências, empresas e indústrias. Conte com a J’ENERGY para realizar seu projeto com qualidade e responsabilidade.”
+
+Adicionar uma identificação discreta:
+
+J’ENERGY SOLUÇÕES ELÉTRICAS.
+
+Botões:
+
+- SOLICITAR ORÇAMENTO.
+- CONVERSAR PELO WHATSAPP.
+
+Os dois devem direcionar ao WhatsApp oficial.
+
+Utilizar uma fotografia profissional de um eletricista trabalhando em um painel elétrico ou realizando uma instalação.
+
+Se houver fotografias reais do João ou dos serviços da empresa, priorizar essas imagens.
+
+Não apresentar imagens de banco ou imagens geradas como se fossem trabalhos reais da empresa.
+
+Criar composição assimétrica, moderna e sofisticada, com detalhes luminosos e gráficos relacionados à eletricidade.
+
+## 7.2 SERVIÇOS
+
+Headline:
+
+**O QUE PODEMOS FAZER POR VOCÊ?**
+
+Apresentar os seis serviços oficiais em cartões minimalistas.
+
+Cada cartão deve possuir:
+
+- Ícone ou imagem relacionada.
+- Nome do serviço.
+- Descrição curta.
+- Efeito de interação.
+- CTA para solicitar orçamento.
+
+Serviços:
+
+1. Instalações elétricas residenciais, comerciais e industriais.
+2. Manutenção elétrica preventiva e corretiva.
+3. Energia solar.
+4. Automação residencial.
+5. CFTV e segurança eletrônica.
+6. Instalação de fechadura eletrônica.
+
+Utilizar descrições objetivas e comerciais.
+
+Não criar informações técnicas ou promessas que não foram fornecidas.
+
+Adicionar uma chamada:
+
+**PRECISA DE ALGUM DESSES SERVIÇOS?**
+
+Botão: SOLICITAR ORÇAMENTO.
+
+## 7.3 POR QUE ESCOLHER A J’ENERGY?
+
+Criar uma seção mais humana e persuasiva.
+
+Headline:
+
+**POR QUE ESCOLHER A J’ENERGY?**
+
+Apresentar João como o profissional responsável pelo atendimento, aproximando a empresa do cliente.
+
+Trabalhar os seguintes diferenciais:
+
+**Atendimento Personalizado**
+
+Cada cliente possui uma necessidade diferente. Valorizar a atenção e a busca por soluções adequadas.
+
+**Qualidade e Segurança**
+
+Reforçar a importância de realizar serviços elétricos com responsabilidade e cuidado.
+
+**Equipe Qualificada e Certificada**
+
+Valorizar o diferencial informado pela empresa, sem inventar certificações específicas.
+
+**Compromisso com o Cliente**
+
+Destacar comunicação clara, atenção e atendimento próximo.
+
+Utilizar uma composição editorial moderna, com fotografia real do João, caso esteja disponível.
+
+Não inventar história profissional, formação, experiência, certificações individuais ou números de clientes.
+
+## 7.4 DEPOIMENTOS
+
+Headline:
+
+**A CONFIANÇA DE QUEM JÁ CONHECE NOSSO TRABALHO.**
+
+Criar uma seção de depoimentos minimalista.
+
+Cada depoimento deve permitir:
+
+- Nome do cliente.
+- Texto.
+- Foto opcional.
+- Avaliação opcional, se existir uma avaliação real.
+
+IMPORTANTE:
+
+Não inventar depoimentos, nomes, avaliações ou estrelas.
+
+Criar a estrutura no banco de dados e no painel administrativo para que os depoimentos reais sejam cadastrados posteriormente.
+
+Se não existirem depoimentos cadastrados, ocultar a seção na página pública ou apresentar uma alternativa visual sem avaliações fictícias.
+
+## 7.5 INSTAGRAM
+
+Criar uma chamada minimalista:
+
+**ACOMPANHE A J’ENERGY NO INSTAGRAM.**
+
+Texto:
+
+“Conheça mais sobre nossos serviços e acompanhe nossas novidades.”
+
+Botão:
+
+ACESSAR INSTAGRAM.
+
+Direcionar para:
+
+https://www.instagram.com/j.energy_solucoes?igsh=MW1jZWplNzgyb25sZw==
+
+Abrir em nova aba.
+
+Se não houver integração oficial e estável com o Instagram, utilizar apenas o botão para o perfil.
+
+Não simular um feed ou criar publicações fictícias.
+
+## 7.6 CHAMADA FINAL
+
+Headline:
+
+**VAMOS RESOLVER SUA NECESSIDADE ELÉTRICA?**
+
+Texto:
+
+“Entre em contato com João e explique o que você precisa. A J’ENERGY está pronta para conhecer seu projeto e verificar como pode ajudar.”
+
+Botão:
+
+**SOLICITAR ORÇAMENTO PELO WHATSAPP.**
+
+Criar uma seção de encerramento visualmente forte, com fundo tecnológico e detalhes luminosos.
+
+## 7.7 RODAPÉ
+
+Incluir:
+
+- Logotipo.
+- Nome da empresa.
+- Slogan.
+- Links das seções.
+- WhatsApp.
+- Instagram.
+- Região de atendimento em texto discreto: São Bernardo do Campo/SP e região.
+- Política de privacidade.
+- Direitos autorais.
+
+Manter o rodapé compacto e elegante.
+
+---
+
+# 8. WHATSAPP — PRINCIPAL MOTOR DE CONVERSÃO
+
+A integração com WhatsApp é a funcionalidade comercial mais importante do projeto.
+
+Número:
+
+551198151548.
+
+Link:
+
+https://wa.me/551198151548
+
+Implementar:
+
+- Botão no cabeçalho.
+- Botão principal do Hero.
+- Botões nos cartões de serviços.
+- Botão na seção de apresentação.
+- CTA final.
+- Botão flutuante de WhatsApp.
+
+Todos os botões devem funcionar.
+
+## 8.1 Mensagens personalizadas
+
+Utilizar mensagens pré-preenchidas conforme a origem do clique.
+
+Mensagem geral:
+
+“Olá! Acessei o site da J’ENERGY e gostaria de solicitar um orçamento. Poderia me ajudar?”
+
+Mensagem para cada serviço:
+
+“Olá! Acessei o site da J’ENERGY e gostaria de solicitar um orçamento para [nome do serviço].”
+
+Codificar corretamente as mensagens para URL.
+
+Abrir o WhatsApp em nova aba quando apropriado.
+
+O visitante deve confirmar e enviar a mensagem manualmente.
+
+Não afirmar que uma mensagem foi enviada automaticamente.
+
+## 8.2 Experiência do botão flutuante
+
+Criar um botão flutuante moderno, com ícone do WhatsApp, destaque visual e microanimação discreta.
+
+Não utilizar animações excessivas.
+
+Garantir que não encubra conteúdo ou controles importantes no celular.
+
+---
+
+# 9. PAINEL ADMINISTRATIVO COMPLETO
+
+Desenvolver uma área administrativa em:
+
+`/admin`
+
+O painel deve permitir que o proprietário atualize o conteúdo do site sem precisar editar o código.
+
+Criar sistema de login seguro.
+
+## 9.1 Autenticação
+
+Implementar:
+
+- Tela de login.
+- Logout.
+- Senhas armazenadas com hash seguro.
+- Sessões protegidas.
+- Controle de acesso.
+- Proteção contra tentativas excessivas de login.
+- Proteção CSRF nas operações administrativas.
+- Rotas administrativas protegidas.
+
+Não deixar credenciais padrão conhecidas ou senhas expostas no código.
+
+Criar um procedimento seguro para inicializar o primeiro administrador.
+
+## 9.2 Dashboard
+
+Criar um painel com visual profissional e simples de utilizar.
+
+Apresentar:
+
+- Visão geral.
+- Atalhos para editar o site.
+- Gerenciamento dos serviços.
+- Gerenciamento dos depoimentos.
+- Gerenciamento das imagens.
+- Configurações gerais.
+- Informações de contato.
+
+Não inventar estatísticas ou dados de visitas.
+
+## 9.3 Gerenciamento de conteúdo
+
+Permitir editar:
+
+- Headline principal.
+- Subheadline.
+- Textos institucionais.
+- Títulos das seções.
+- Descrições.
+- Botões.
+- Chamadas para ação.
+- Slogan.
+- Informações de contato.
+- Link do WhatsApp.
+- Link do Instagram.
+- Região de atendimento.
+- Textos do rodapé.
+
+## 9.4 Gerenciamento de serviços
+
+Permitir:
+
+- Cadastrar serviços.
+- Editar serviços.
+- Excluir serviços.
+- Alterar nomes.
+- Alterar descrições.
+- Alterar ícones.
+- Alterar imagens.
+- Definir ordem de exibição.
+- Ativar ou desativar serviços.
+- Alterar mensagens pré-preenchidas do WhatsApp.
+
+## 9.5 Gerenciamento de depoimentos
+
+Permitir:
+
+- Cadastrar depoimentos.
+- Editar depoimentos.
+- Excluir depoimentos.
+- Inserir nome do cliente.
+- Inserir texto.
+- Adicionar fotografia opcional.
+- Informar avaliação, quando verdadeira.
+- Publicar ou deixar como rascunho.
+- Definir ordem de exibição.
+
+Somente depoimentos reais e autorizados devem ser publicados.
+
+## 9.6 Gerenciamento de imagens
+
+Permitir:
+
+- Upload de imagens.
+- Substituição de imagens.
+- Exclusão de imagens.
+- Organização de arquivos.
+- Texto alternativo.
+- Visualização prévia.
+
+Validar tipo, extensão, tamanho e conteúdo dos arquivos enviados.
+
+Armazenar os arquivos em diretório próprio, com nomes seguros.
+
+Não permitir execução de arquivos enviados.
+
+## 9.7 Configurações gerais
+
+Permitir editar:
+
+- Nome da empresa.
+- Slogan.
+- Telefone.
+- WhatsApp.
+- Instagram.
+- Região de atendimento.
+- Logotipo.
+- Favicon.
+- SEO.
+- Meta title.
+- Meta description.
+- Imagem de compartilhamento.
+
+## 9.8 Requisitos importantes do painel
+
+Todas as alterações devem ser persistidas no SQLite.
+
+O site público deve carregar automaticamente as informações atualizadas do banco de dados.
+
+Não criar um painel meramente visual.
+
+Todas as operações devem funcionar de verdade.
+
+Implementar feedback de sucesso e erro, validação de dados, confirmação antes de exclusões e estados vazios.
+
+---
+
+# 10. BANCO DE DADOS SQLITE
+
+Criar um banco SQLite estruturado e organizado.
+
+Modelar pelo menos as seguintes entidades:
+
+- AdminUser.
+- SiteSettings.
+- Service.
+- Testimonial.
+- Media.
+
+Definir relacionamentos quando necessário.
+
+Utilizar SQLAlchemy 2.x com suporte a SQLite, se adequado à arquitetura.
+
+Utilizar Alembic para migrações ou uma estratégia equivalente, consistente e documentada.
+
+Criar inicialização segura do banco de dados.
+
+Não perder os dados existentes ao reiniciar o servidor.
+
+Criar índices para consultas relevantes.
+
+Implementar operações CRUD completas no painel administrativo.
+
+---
+
+# 11. SEGURANÇA
+
+Implementar boas práticas de segurança:
+
+- Variáveis sensíveis no `.env`.
+- Nunca armazenar senhas em texto puro.
+- Hash seguro de senhas.
+- Sessões seguras.
+- Proteção CSRF.
+- Validação de formulários.
+- Sanitização de entradas.
+- Proteção contra SQL Injection.
+- Proteção contra XSS.
+- Rate limiting no login.
+- Validação de uploads.
+- Controle de permissões.
+- Headers de segurança.
+- HTTPS em produção.
+- Não expor informações internas em mensagens de erro.
+
+Utilizar bibliotecas maduras e adequadas.
+
+Não colocar segredos, tokens ou chaves privadas no frontend.
+
+---
+
+# 12. SEO E INDEXAÇÃO
+
+Implementar SEO técnico e local.
+
+Incluir:
+
+- Meta title.
+- Meta description.
+- URLs amigáveis.
+- Hierarquia de títulos.
+- HTML semântico.
+- Open Graph.
+- Twitter Cards.
+- Canonical URL.
+- Sitemap XML.
+- Robots.txt.
+- Favicon.
+- Dados estruturados Schema.org apropriados para empresa de serviços elétricos.
+- Textos alternativos em imagens.
+- Links internos.
+- Otimização de carregamento.
+
+Trabalhar palavras-chave relacionadas a:
+
+- Eletricista em São Bernardo do Campo.
+- Serviços elétricos.
+- Instalações elétricas.
+- Manutenção elétrica.
+- Energia solar.
+- Automação residencial.
+- CFTV.
+- Fechadura eletrônica.
+
+Não inserir endereço, horário de funcionamento, avaliações ou informações comerciais inventadas nos dados estruturados.
+
+Preparar o site para indexação no Google.
+
+---
+
+# 13. RESPONSIVIDADE E MOBILE-FIRST
+
+Desenvolver primeiro pensando em smartphones.
+
+O site deverá funcionar perfeitamente em:
+
+- Smartphones.
+- Tablets.
+- Notebooks.
+- Desktops.
+
+Implementar:
+
+- Layout fluido.
+- Menu mobile funcional.
+- Botões adequados para toque.
+- Tipografia adaptável.
+- Imagens responsivas.
+- Espaçamentos proporcionais.
+- Formulários acessíveis.
+- Navegação intuitiva.
+- CTA de WhatsApp sempre acessível.
+
+Não simplesmente reduzir o layout desktop.
+
+Criar uma experiência mobile própria, mantendo a identidade visual.
+
+---
+
+# 14. ACESSIBILIDADE
+
+Garantir:
+
+- HTML semântico.
+- Contraste adequado.
+- Navegação por teclado.
+- Foco visível.
+- Labels nos campos.
+- Textos alternativos.
+- Compatibilidade com leitores de tela.
+- Feedback acessível.
+- Respeito a movimento reduzido.
+- Hierarquia correta de títulos.
+
+---
+
+# 15. DESEMPENHO
+
+O site deve ser rápido e leve.
+
+Implementar:
+
+- Otimização de imagens.
+- Formatos WebP e AVIF quando disponíveis.
+- Lazy loading.
+- Carregamento prioritário da imagem principal.
+- Minificação de CSS e JavaScript.
+- Cache de arquivos estáticos.
+- Otimização de fontes.
+- Código limpo.
+- Consultas eficientes ao SQLite.
+- Redução de dependências externas.
+
+Evitar scripts e bibliotecas desnecessárias.
+
+Priorizar bons resultados em Core Web Vitals.
+
+---
+
+# 16. ESTRUTURA DE PASTAS
+
+Organizar o projeto de forma profissional.
+
+Utilizar uma estrutura semelhante a:
+
+```text
+jenergy/
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   ├── database.py
+│   │
+│   ├── models/
+│   │   ├── admin.py
+│   │   ├── settings.py
+│   │   ├── service.py
+│   │   ├── testimonial.py
+│   │   └── media.py
+│   │
+│   ├── routers/
+│   │   ├── public.py
+│   │   ├── admin.py
+│   │   └── auth.py
+│   │
+│   ├── services/
+│   │   ├── authentication.py
+│   │   ├── content.py
+│   │   └── uploads.py
+│   │
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── components/
+│   │   └── admin/
+│   │
+│   └── static/
+│       ├── css/
+│       ├── js/
+│       ├── images/
+│       ├── uploads/
+│       └── favicon/
+│
+├── migrations/
+├── tests/
+├── scripts/
+├── .env.example
+├── .gitignore
+├── requirements.txt
+├── README.md
+└── run.py
+```
+
+Você pode adaptar a estrutura quando existir uma justificativa técnica, mas mantenha a separação de responsabilidades.
+
+---
+
+# 17. CONFIGURAÇÃO E VARIÁVEIS DE AMBIENTE
+
+Criar `.env.example` contendo as variáveis necessárias.
+
+Exemplos:
+
+```env
+APP_NAME=J'ENERGY SOLUCOES ELETRICAS
+APP_ENV=development
+SECRET_KEY=change-this-secret
+DATABASE_URL=sqlite:///./data/jenergy.db
+ADMIN_INITIAL_EMAIL=
+ADMIN_INITIAL_PASSWORD=
+BASE_URL=http://localhost:8000
+SESSION_COOKIE_SECURE=false
+```
+
+Não colocar senhas reais no repositório.
+
+O sistema deve validar as configurações necessárias para produção.
+
+Criar procedimento seguro para gerar a chave secreta e inicializar o administrador.
+
+---
+
+# 18. HOSPEDAGEM EM VPS LINUX
+
+Deixar o projeto pronto para produção em uma VPS Linux.
+
+Preparar:
+
+- Ambiente virtual Python.
+- Instalação de dependências.
+- Configuração de variáveis de ambiente.
+- Inicialização do banco.
+- Execução com Uvicorn.
+- Configuração de produção.
+- Serviço systemd.
+- Nginx como reverse proxy.
+- HTTPS com Let's Encrypt/Certbot.
+- Configuração de domínio.
+- Logs.
+- Reinicialização automática do serviço.
+- Backup do banco SQLite.
+- Backup dos arquivos enviados.
+
+Criar scripts de instalação e manutenção quando fizer sentido.
+
+O SQLite deve permanecer em armazenamento persistente, com permissões corretas.
+
+Não armazenar o banco em diretórios temporários.
+
+Documentar como restaurar um backup.
+
+---
+
+# 19. README.MD
+
+Criar um README.md completo, em português, contendo:
+
+1. Descrição do projeto.
+2. Tecnologias utilizadas.
+3. Requisitos.
+4. Estrutura de pastas.
+5. Instalação local.
+6. Configuração do ambiente virtual.
+7. Instalação de dependências.
+8. Configuração do `.env`.
+9. Inicialização do banco.
+10. Criação do administrador.
+11. Execução local.
+12. Acesso ao painel administrativo.
+13. Configuração do Tailwind CSS.
+14. Upload e gerenciamento de imagens.
+15. Testes.
+16. Deploy em VPS Linux.
+17. Configuração do Nginx.
+18. Configuração de domínio.
+19. HTTPS.
+20. Backup e restauração.
+21. Atualização do projeto.
+22. Solução de problemas comuns.
+
+Não deixar instruções incompletas.
+
+---
+
+# 20. TESTES E VALIDAÇÃO
+
+Criar testes automatizados utilizando pytest.
+
+Testar:
+
+- Inicialização da aplicação.
+- Carregamento da página inicial.
+- Renderização dos templates.
+- Navegação.
+- Login administrativo.
+- Logout.
+- Proteção de rotas.
+- Criação de serviços.
+- Edição de serviços.
+- Exclusão de serviços.
+- Cadastro de depoimentos.
+- Edição de depoimentos.
+- Upload de imagens.
+- Persistência no SQLite.
+- Atualização do conteúdo público.
+- Links do WhatsApp.
+- Links do Instagram.
+- SEO básico.
+- Rotas inexistentes.
+- Validação de dados.
+
+Verificar também:
+
+- Erros no console.
+- Problemas de responsividade.
+- Elementos sobrepostos.
+- Botões sem funcionalidade.
+- Links quebrados.
+- Problemas de acessibilidade.
+
+Corrigir os problemas identificados antes de finalizar.
+
+---
+
+# 21. ORDEM DE EXECUÇÃO
+
+Não pare na fase de planejamento.
+
+Você deve efetivamente desenvolver o projeto.
+
+Siga esta sequência:
+
+**FASE 1 — ANÁLISE E PLANEJAMENTO**
+
+Analise o ambiente de trabalho, defina a arquitetura e organize a implementação.
+
+Se já houver arquivos no projeto, inspecione-os antes de sobrescrever qualquer coisa.
+
+**FASE 2 — BACKEND**
+
+Desenvolva FastAPI, banco SQLite, modelos, autenticação e rotas.
+
+**FASE 3 — FRONTEND**
+
+Desenvolva os templates Jinja2, Tailwind CSS, Alpine.js e a identidade visual completa.
+
+**FASE 4 — PAINEL ADMINISTRATIVO**
+
+Implemente o painel funcional, autenticação e gerenciamento de conteúdo.
+
+**FASE 5 — INTEGRAÇÕES**
+
+Implemente WhatsApp, Instagram, SEO e demais recursos.
+
+**FASE 6 — SEGURANÇA E OTIMIZAÇÃO**
+
+Revise segurança, acessibilidade, desempenho e responsividade.
+
+**FASE 7 — TESTES**
+
+Execute os testes, corrija erros e valide o funcionamento.
+
+**FASE 8 — DOCUMENTAÇÃO E DEPLOY**
+
+Entregue README, arquivos de configuração e instruções completas para VPS Linux.
+
+---
+
+# 22. REGRAS DE EXECUÇÃO IMPORTANTES
+
+1. Não entregar apenas um planejamento: desenvolver o projeto de verdade.
+2. Não deixar funcionalidades importantes como pseudocódigo.
+3. Não criar botões decorativos sem ação.
+4. Não criar formulários que não funcionem.
+5. Não utilizar dados fictícios como se fossem reais.
+6. Não inventar depoimentos.
+7. Não inventar informações profissionais de João.
+8. Não alterar o número do WhatsApp.
+9. Não alterar o Instagram oficial.
+10. Não alterar os seis serviços fornecidos.
+11. Não criar uma seção extensa de localização ou mapas.
+12. Não criar funcionalidades que não possam ser utilizadas.
+13. Não expor dados sensíveis.
+14. Não sobrescrever arquivos importantes sem inspecioná-los.
+15. Não considerar o projeto concluído enquanto existirem erros críticos.
+
+Quando uma informação secundária estiver ausente, tome uma decisão profissional e continue sem fazer perguntas desnecessárias.
+
+Quando faltar uma credencial ou integração externa, implemente a estrutura necessária, documente a dependência e permita configurá-la posteriormente.
+
+Se não houver fotografias reais, utilize imagens ilustrativas adequadas, sem apresentá-las como trabalhos reais da empresa.
+
+---
+
+# 23. RESULTADO FINAL ESPERADO
+
+Entregar um site da J’ENERGY SOLUÇÕES ELÉTRICAS que seja:
+
+- Profissional.
+- Premium.
+- Moderno.
+- Tecnológico.
+- Dinâmico.
+- Interativo.
+- Responsivo.
+- Rápido.
+- Seguro.
+- Administrável.
+- Otimizado para SEO.
+- Focado em conversão pelo WhatsApp.
+
+O site deve apresentar uma identidade visual marcante, sem excesso de informações.
+
+O visitante deve conseguir entender em poucos segundos:
+
+1. Quem é a J’ENERGY.
+2. Quais serviços oferece.
+3. Por que contratar João.
+4. O que os clientes dizem sobre o trabalho.
+5. Como solicitar um orçamento.
+
+O painel administrativo deve permitir que o responsável atualize o conteúdo sem precisar alterar o código.
+
+O projeto deve estar tecnicamente preparado para ser hospedado em uma VPS Linux com domínio próprio e HTTPS.
+
+**A prioridade é entregar um sistema real, funcional, seguro, organizado e pronto para uso profissional.**
+
+Comece inspecionando o ambiente e desenvolvendo o projeto. Não finalize sua tarefa apenas com recomendações: implemente, execute, teste e corrija.

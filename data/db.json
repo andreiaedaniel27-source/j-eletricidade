@@ -1,0 +1,374 @@
+{
+  "leads": [
+    {
+      "id": "lead-1793941809759",
+      "name": "Teste Validação",
+      "phone": "11988887777",
+      "service": "Instalação elétrica",
+      "need": "Teste de carga",
+      "propertyType": "Comercial",
+      "city": "São Bernardo do Campo",
+      "neighborhood": "Centro",
+      "urgency": "Programado",
+      "description": "Teste de funcionamento do backend",
+      "status": "novo",
+      "createdAt": "2026-11-06T05:10:09.759Z",
+      "source": "whatsapp_wizard"
+    },
+    {
+      "id": "lead-1001",
+      "name": "Carlos Eduardo Silva",
+      "phone": "(11) 97123-4567",
+      "email": "carlos.silva@empresa.com.br",
+      "service": "Instalação Elétrica",
+      "need": "Instalação nova de quadro trifásico",
+      "propertyType": "Comercial",
+      "city": "São Bernardo do Campo",
+      "neighborhood": "Rudge Ramos",
+      "urgency": "Urgente",
+      "description": "Necessito de adequação de carga e montagem de novo quadro de distribuição para novo restaurante com equipamentos de 220V trifásicos.",
+      "status": "em_atendimento",
+      "createdAt": "2026-11-06T01:09:55.637Z",
+      "source": "whatsapp_wizard"
+    },
+    {
+      "id": "lead-1002",
+      "name": "Mariana Alencar",
+      "phone": "(11) 99876-5432",
+      "email": "mariana.alencar@gmail.com",
+      "service": "Energia Solar",
+      "need": "Estudo de viabilidade fotovoltaica",
+      "propertyType": "Residencial",
+      "city": "Santo André",
+      "neighborhood": "Campestre",
+      "urgency": "Orçamento",
+      "description": "Conta mensal média de R$ 750,00. Gostaria de projeto solar homologado com microinversores ou inversor string para telhado com boa orientação.",
+      "status": "novo",
+      "createdAt": "2026-11-05T11:09:55.637Z",
+      "source": "whatsapp_wizard"
+    },
+    {
+      "id": "lead-1003",
+      "name": "Roberto Mendes",
+      "phone": "(11) 98321-7788",
+      "email": "contato@logisticaabc.com.br",
+      "service": "Manutenção Elétrica",
+      "need": "Disjuntor principal desarmando e oscilação",
+      "propertyType": "Industrial",
+      "city": "São Bernardo do Campo",
+      "neighborhood": "Demarchi",
+      "urgency": "Emergência",
+      "description": "O disjuntor do setor fabril desarmou 3 vezes hoje sob carga moderada e notamos aquecimento nos barramentos. Precisamos de diagnóstico com termografia.",
+      "status": "orcamento_enviado",
+      "createdAt": "2026-11-04T05:09:55.637Z",
+      "source": "emergency_cta"
+    }
+  ],
+  "settings": {
+    "companyName": "J'ENERGY Soluções Elétricas",
+    "phone": "11981511548",
+    "phoneDisplay": "(11) 98151-1548",
+    "whatsappNumber": "5511981511548",
+    "instagramUrl": "https://www.instagram.com/j.energy_solucoes/",
+    "city": "São Bernardo do Campo",
+    "state": "SP",
+    "coverageArea": [
+      "São Bernardo do Campo",
+      "Santo André",
+      "São Caetano do Sul",
+      "Diadema",
+      "Mauá",
+      "Ribeirão Pires",
+      "São Paulo (Zona Sul e Leste)"
+    ],
+    "businessHours": {
+      "weekdays": "07:30 às 18:30",
+      "saturday": "08:00 às 14:00",
+      "emergency": "Plantão Emergencial sob Consulta"
+    },
+    "emergencyNotice": "Atendimento emergencial sujeito à confirmação de rota e disponibilidade do responsável técnico.",
+    "emergencyActive": true
+  },
+  "content": {
+    "hero": {
+      "headline": "SOLUÇÕES ELÉTRICAS COM RIGOR TÉCNICO,",
+      "headlineHighlight": "SEGURANÇA E CONFIABILIDADE.",
+      "subheadline": "Instalações e manutenção elétrica para residências, condomínios e indústrias em São Bernardo do Campo e Grande ABC. Atendimento e responsabilidade técnica conduzidos diretamente por João Matos.",
+      "slogan": "Sua segurança é nossa energia!",
+      "kicker": "J.ENERGY Soluções Elétricas",
+      "coverImage": "/assets/aistudio/Eletricista-Veja-Como-Ser-um-Bom-Profissional_e468609b.jpg",
+      "buttonText": "Solicitar Orçamento pelo WhatsApp",
+      "statNumber": "+380",
+      "statLabel": "Avaliações 5 Estrelas no Google"
+    },
+    "about": {
+      "tagline": "02 / Perfil & Responsabilidade Técnica",
+      "title": "JOÃO MATOS",
+      "subtitle": "Técnico em Eletrotécnica formado pelo SENAI · Credenciado ativo no CFT",
+      "presentationText": "A J.Energy Soluções Elétricas é especializada em instalações e manutenções elétricas residenciais, comerciais e industriais, atendendo São Bernardo do Campo e região.\n\nOferecemos soluções completas em elétrica, automação residencial, fechaduras eletrônicas e sistemas de segurança, sempre com foco em qualidade, eficiência e atendimento personalizado.\n\nTrabalhamos seguindo as normas técnicas aplicáveis, como ABNT NBR 5410, NR10 e NR35, priorizando a segurança e a satisfação de cada cliente.\n\nMais de 380 avaliações 5 estrelas no Google!\n\nJ.Energy — Sua segurança é nossa energia!",
+      "portraitImage": "/assets/joao_real.jpg",
+      "cftBadge": "CFT ATIVO",
+      "cursos": [
+        {
+          "num": "01",
+          "title": "Técnico em Eletrotécnica",
+          "category": "Formação Técnica SENAI"
+        },
+        {
+          "num": "02",
+          "title": "Eletricista Instalador",
+          "category": "Instalações & Padrão"
+        },
+        {
+          "num": "03",
+          "title": "Eficiência Energética",
+          "category": "Gestão & Otimização"
+        },
+        {
+          "num": "04",
+          "title": "Comandos Elétricos",
+          "category": "Painéis & Acionamentos"
+        },
+        {
+          "num": "05",
+          "title": "Automação Residencial",
+          "category": "Smart Home & Conforto"
+        },
+        {
+          "num": "06",
+          "title": "NR-10",
+          "category": "Segurança em Eletricidade"
+        },
+        {
+          "num": "07",
+          "title": "NR-35",
+          "category": "Trabalho em Altura"
+        },
+        {
+          "num": "08",
+          "title": "Energia Solar Fotovoltaica",
+          "category": "Geração Distribuída"
+        }
+      ]
+    },
+    "services": [
+      {
+        "id": "instalacoes-eletricas",
+        "number": "01",
+        "title": "Instalações Elétricas",
+        "shortDescription": "Instalações elétricas completas para ambientes residenciais, comerciais e industriais com conformidade técnica rigorosa.",
+        "fullDescription": "Projetos e execuções de instalações elétricas de baixa e média tensão. Montagem e organização de quadros de distribuição, cabeamento estruturado, circuitos de força e iluminação, atendendo estritamente às normas de segurança NBR 5410 e diretrizes das concessionárias.",
+        "image": "/assets/aistudio/WhatsApp_Image_2026-11-07_at_15.49.21_a5936743.jpeg",
+        "badge": "Residencial · Comercial · Industrial",
+        "applications": [
+          "Quadros de distribuição de circuitos (QDC e QGBT)",
+          "Infraestrutura para novas construções e reformas elétricas",
+          "Circuitos dedicados para equipamentos de alta potência",
+          "Padrão de entrada e aumento de carga técnica",
+          "Distribuição em eletrocalhas, perfilados e conduítes"
+        ],
+        "benefits": [
+          "Dimensionamento correto sem riscos de sobrecarga",
+          "Prevenção contra quedas de disjuntores e curtos-circuitos",
+          "Economia de energia com condutores adequados",
+          "Execução alinhada às normas técnicas de segurança"
+        ],
+        "features": [
+          "Dimensionamento técnico de condutores",
+          "Dispositivos de proteção DR e DPS",
+          "Aterramento e equipotencialização",
+          "Identificação e anilhamento de circuitos"
+        ],
+        "norma": "Conforme Norma NBR 5410"
+      },
+      {
+        "id": "manutencao-eletrica",
+        "number": "02",
+        "title": "Manutenção Elétrica",
+        "shortDescription": "Manutenção preventiva e corretiva para garantir a continuidade operacional, eficiência e proteção de vidas e patrimônios.",
+        "fullDescription": "Diagnóstico avançado de falhas em sistemas elétricos, reaperto de conexões em quadros, identificação de sobreaquecimento por termografia, substituição de disjuntores danificados e correção de circuitos instáveis antes que causem paradas ou acidentes graves.",
+        "image": "/assets/aistudio/manuten__o_eletrica_99f219e3.jpg",
+        "badge": "Preventiva · Preditiva · Corretiva",
+        "applications": [
+          "Revisão e manutenção de quadros de comando e força",
+          "Correção de disjuntores desarmando frequentemente",
+          "Substituição de fiação aquecida, ressecada ou avariada",
+          "Identificação de fugas de corrente e oscilações de tensão",
+          "Balanceamento de fases para redução de perdas"
+        ],
+        "benefits": [
+          "Evita paradas inesperadas em comércios e residências",
+          "Diminui drasticamente o risco de incêndios elétricos",
+          "Prolonga a vida útil de eletrodomésticos e maquinários",
+          "Reduz desperdício na fatura mensal de energia"
+        ],
+        "features": [
+          "Inspeção detalhada de barramentos",
+          "Medições de isolamento e continuidade",
+          "Teste de disparo de diferenciais residuais (DR)",
+          "Relatório de não conformidades encontradas"
+        ],
+        "norma": "Inspeção com Instrumentos Calibrados"
+      },
+      {
+        "id": "energia-solar",
+        "number": "03",
+        "title": "Energia Solar",
+        "shortDescription": "Soluções de energia solar fotovoltaica com foco em economia sustentável, redução de custos e valorização do imóvel.",
+        "fullDescription": "Implantação completa de sistemas solares conectados à rede (On-Grid). Dimensionamento preciso da potência conforme o consumo médio, instalação segura de módulos monocristalinos e inversores de alta eficiência, além de acompanhamento técnico do processo junto à concessionária de energia.",
+        "image": "/assets/aistudio/energia_solar_05182216.jpg",
+        "badge": "Fotovoltaica · Economia até 95%",
+        "applications": [
+          "Telhados residenciais de diferentes estruturas",
+          "Galpões industriais e comércios de médio porte",
+          "Condomínios residenciais e áreas comuns",
+          "Sistemas com inversores de alta eficiência ou microinversores"
+        ],
+        "benefits": [
+          "Redução de até 95% na conta de energia elétrica",
+          "Proteção contra aumentos e bandeiras tarifárias",
+          "Energia limpa, renovável e de baixíssima manutenção",
+          "Valorização imediata do imóvel comercial ou residencial"
+        ],
+        "features": [
+          "Estudo de viabilidade e sombreamento",
+          "Fixação com proteções contra intempéries",
+          "String boxes com proteção CC/CA completa",
+          "Monitoramento em tempo real por aplicativo"
+        ],
+        "norma": "Homologação Técnica Concessionária"
+      },
+      {
+        "id": "automacao-residencial",
+        "number": "04",
+        "title": "Automação Residencial",
+        "shortDescription": "Soluções para praticidade, conforto, controle inteligente de ambientes e eficiência energética na palma da mão.",
+        "fullDescription": "Integração tecnológica de iluminação, climatização, persianas e circuitos de tomada. Criação de cenários personalizados (cinema, trabalho, recepção, ausência) com controle por smartphone, interruptores touch inteligentes ou comandos por assistentes de voz.",
+        "image": "/assets/aistudio/automa__o_residencial_7f61b5c4.jpg",
+        "badge": "Casa Inteligente · Conforto · Controle",
+        "applications": [
+          "Módulos inteligentes embutidos em caixas 4x2 e 4x4",
+          "Controle por assistentes de voz (Alexa, Google Assistant)",
+          "Criação de rotinas programadas por horário ou presença",
+          "Dimerização precisa de circuitos luminotécnicos"
+        ],
+        "benefits": [
+          "Controle total da residência mesmo à distância",
+          "Maior conforto e sofisticação no dia a dia",
+          "Desligamento automático de luzes para economizar",
+          "Simulação de presença para reforçar a segurança"
+        ],
+        "features": [
+          "Compatibilidade com redes Wi-Fi e Zigbee",
+          "Interruptores touch com acabamento de vidro",
+          "Cenários customizados por ambiente",
+          "Configuração simplificada em aplicativo"
+        ],
+        "norma": "Protocolos Seguros e Criptografados"
+      },
+      {
+        "id": "cftv-seguranca",
+        "number": "05",
+        "title": "CFTV e Segurança Eletrônica",
+        "shortDescription": "Sistemas de monitoramento e vigilância com câmeras de alta definição e acesso remoto em tempo real.",
+        "fullDescription": "Instalação e configuração de infraestrutura de CFTV IP e HD, com posicionamento estratégico das câmeras para cobertura perimetral de residências, garagens, estoques e portarias. Configuração de gravadores (NVR/DVR), nobreaks e aplicativo móvel para visualização ao vivo com notificações de movimento.",
+        "image": "/assets/aistudio/cftv_e_seguran_a_eletrica_81fb2af7.jpg",
+        "badge": "Vigilância IP · Alta Definição · Acesso Remoto",
+        "applications": [
+          "Monitoramento perimetral de residências e comércios",
+          "Visualização de portões, garagens e acessos principais",
+          "Gravação contínua com detecção inteligente de pessoas",
+          "Sistemas para condomínios e galpões"
+        ],
+        "benefits": [
+          "Visualização em tempo real de qualquer lugar pelo celular",
+          "Dissuasão comprovada contra tentativas de invasão",
+          "Registro seguro de imagens com infravermelho noturno",
+          "Tranquilidade e proteção para a família e negócios"
+        ],
+        "features": [
+          "Câmeras com visão noturna e resolução Full HD / 4K",
+          "Cabeamento blindado e fontes chaveadas protegidas",
+          "Gravação em disco rígido para segurança contínua",
+          "Configuração de alertas e zonas de invasão"
+        ],
+        "norma": "Armazenamento Protegido e Nobreak"
+      },
+      {
+        "id": "fechadura-eletronica",
+        "number": "06",
+        "title": "Fechadura Eletrônica",
+        "shortDescription": "Instalação de fechaduras digitais para maior praticidade, sofisticação e controle moderno de acesso sem chaves.",
+        "fullDescription": "Substituição e instalação precisa de fechaduras eletrônicas digitais em portas de madeira, pivotantes, alumínio ou ferro. Configuração de senhas numéricas, biometria digital por impressão digital, cartões/tags RFID, senhas temporárias para prestadores de serviço e integração com aplicativos móveis.",
+        "image": "/assets/aistudio/fechadura_eletronica_d84464c6.jpeg",
+        "badge": "Biometria · Senha · Tags RFID · Sem Chaves",
+        "applications": [
+          "Portas de entrada residenciais e apartamentos",
+          "Salas comerciais, consultórios e escritórios privados",
+          "Imóveis de locação por temporada (Airbnb / temporário)",
+          "Portas pivotantes e modelos de embutir ou sobrepor"
+        ],
+        "benefits": [
+          "Eliminação definitiva do transtorno de esquecer ou perder chaves",
+          "Travamento automático da porta após fechar",
+          "Senhas temporárias com validade programável para visitas",
+          "Design moderno que valoriza a entrada do seu imóvel"
+        ],
+        "features": [
+          "Sensor de biometria ultrarrápido",
+          "Alarme antiarrombamento e aviso de bateria fraca",
+          "Teclado touch iluminado anti-marcas de digitação",
+          "Chave mecânica de emergência e entrada USB de contingência"
+        ],
+        "norma": "Instalação com Fresagem e Gabarito Preciso"
+      }
+    ],
+    "sponsors": [
+      {
+        "id": "sp-intelbras",
+        "name": "Intelbras",
+        "category": "Segurança Eletrônica & Automação",
+        "logoUrl": "/assets/aistudio/intelbras_2aaf755f.png",
+        "websiteUrl": "https://www.intelbras.com/pt-br/",
+        "active": true,
+        "description": "Equipamentos de segurança eletrônica, CFTV e controle de acesso."
+      },
+      {
+        "id": "sp-ekaza",
+        "name": "Ekaza",
+        "category": "Automação Residencial & Smart Home",
+        "logoUrl": "/assets/aistudio/ekaza_858fd747.jpg",
+        "websiteUrl": "https://ekaza.com.br/",
+        "active": true,
+        "description": "Soluções inteligentes para casa conectada e automação residencial."
+      },
+      {
+        "id": "sp-papaiz",
+        "name": "Papaiz",
+        "category": "Fechaduras Digitais & Segurança",
+        "logoUrl": "/assets/aistudio/papaiz_550e33f9.jpg",
+        "websiteUrl": "https://www.papaiz.com.br/",
+        "active": true,
+        "description": "Fechaduras eletrônicas e ferragens de alta segurança."
+      },
+      {
+        "id": "sp-yale",
+        "name": "Yale",
+        "category": "Fechaduras Inteligentes & Controle de Acesso",
+        "logoUrl": "/assets/aistudio/yale_ef959491.jpg",
+        "websiteUrl": "https://www.yalehome.com/br/pt",
+        "active": true,
+        "description": "Fechaduras digitais biométricas e soluções de acesso sem chaves."
+      }
+    ],
+    "quiz": {
+      "active": true,
+      "kicker": "EM POUCOS CLIQUES",
+      "title": "Descubra a fechadura digital ideal pra sua porta",
+      "description": "Selecionamos os melhores modelos do mercado por tipo de cenário. Economizamos seu tempo e facilitamos a escolha certa.",
+      "buttonText": "Começar Quiz",
+      "subtext": "5 a 7 perguntas · menos de 1 minuto",
+      "url": "https://quiz.elitedafechadura.com.br/quiz/matos-joao06?direto=1"
+    }
+  }
+}

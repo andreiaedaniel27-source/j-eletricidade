@@ -1,0 +1,8 @@
+{
+  "name": "J'ENERGY Soluções Elétricas",
+  "description": "Instalações elétricas, manutenção preventiva e corretiva, energia solar, automação residencial, CFTV e fechaduras eletrônicas em São Bernardo do Campo e Grande ABC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
